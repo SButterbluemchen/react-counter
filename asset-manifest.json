@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SButterbluemchen/react-counter/static/css/main.a86968df.css",
-    "main.js": "/SButterbluemchen/react-counter/static/js/main.b0bff652.js",
-    "static/js/787.44abcc8c.chunk.js": "/SButterbluemchen/react-counter/static/js/787.44abcc8c.chunk.js",
-    "index.html": "/SButterbluemchen/react-counter/index.html",
-    "main.a86968df.css.map": "/SButterbluemchen/react-counter/static/css/main.a86968df.css.map",
-    "main.b0bff652.js.map": "/SButterbluemchen/react-counter/static/js/main.b0bff652.js.map",
-    "787.44abcc8c.chunk.js.map": "/SButterbluemchen/react-counter/static/js/787.44abcc8c.chunk.js.map"
+    "main.css": "/react-counter/static/css/main.a86968df.css",
+    "main.js": "/react-counter/static/js/main.c175c38b.js",
+    "static/js/787.44abcc8c.chunk.js": "/react-counter/static/js/787.44abcc8c.chunk.js",
+    "index.html": "/react-counter/index.html",
+    "main.a86968df.css.map": "/react-counter/static/css/main.a86968df.css.map",
+    "main.c175c38b.js.map": "/react-counter/static/js/main.c175c38b.js.map",
+    "787.44abcc8c.chunk.js.map": "/react-counter/static/js/787.44abcc8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a86968df.css",
-    "static/js/main.b0bff652.js"
+    "static/js/main.c175c38b.js"
   ]
 }
