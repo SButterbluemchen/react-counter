@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SButterbluemchen/react-counter/static/css/main.4de4129c.css",
+    "main.js": "/SButterbluemchen/react-counter/static/js/main.b0bff652.js",
+    "static/js/787.44abcc8c.chunk.js": "/SButterbluemchen/react-counter/static/js/787.44abcc8c.chunk.js",
+    "index.html": "/SButterbluemchen/react-counter/index.html",
+    "main.4de4129c.css.map": "/SButterbluemchen/react-counter/static/css/main.4de4129c.css.map",
+    "main.b0bff652.js.map": "/SButterbluemchen/react-counter/static/js/main.b0bff652.js.map",
+    "787.44abcc8c.chunk.js.map": "/SButterbluemchen/react-counter/static/js/787.44abcc8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de4129c.css",
+    "static/js/main.b0bff652.js"
+  ]
+}
