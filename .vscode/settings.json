@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "src/App.test.js": true,
+    "src/index.js": true
+  }
+}

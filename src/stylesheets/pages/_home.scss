@@ -1,0 +1,33 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+section {
+  text-align: center;
+  margin: 3rem;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-buttons {
+  margin: 3rem;
+}
+
+.counter-count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 2rem;
+  width: 10rem;
+  max-height: 10rem;
+  border-radius: 100%;
+}
+
+.reset-button {
+  margin: 1rem;
+}
